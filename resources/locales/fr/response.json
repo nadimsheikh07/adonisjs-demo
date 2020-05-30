@@ -1,0 +1,11 @@
+{
+    "login_success": "Login successfully",
+    "register_success": "Register successfully",
+    "register_first": "You first need to register!",
+    "create_success": "{name} create successfully",
+    "update_success": "{name} update successfully",
+    "delete_success": "{name} delete successfully",
+    "password_update_success": "{name} password update successfully",
+    "not_found": "{name} not found!",
+    "something_went_wrong": "Something went wrong!"
+}
